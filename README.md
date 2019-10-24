@@ -17,4 +17,3 @@ PhotoHub
 - Duygu Köse
 - Serdar Korkmaz
 - Muharrem Yavuz
-
